@@ -7,6 +7,9 @@ body {
     background-color: #161617;
     color: #ffb400;
 }
+a {
+    text-decoration: none; 
+}
 
 .intro {
     font-family: merriweather;
@@ -293,13 +296,13 @@ z-index: 1000;
     z-index: -10;
     }
     .skills__html {
-    width: 90%;
-    }
-    .skills__css {
     width: 85%;
     }
+    .skills__css {
+    width: 80%;
+    }
     .skills__js {
-    width: 65%;
+    width: 45%;
     }
     .skills__c {
     width:75%;
