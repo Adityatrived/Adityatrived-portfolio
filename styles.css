@@ -1060,13 +1060,13 @@ background-color: #3B5998;
             z-index: -10;
             }
             .skills__html {
-            width: 90%;
-            }
-            .skills__css {
             width: 85%;
             }
+            .skills__css {
+            width: 80%;
+            }
             .skills__js {
-            width: 65%;
+            width: 45%;
             }
             .skills__c {
             width:75%;
