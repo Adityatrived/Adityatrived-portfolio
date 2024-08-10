@@ -1234,6 +1234,7 @@ background-color: #3B5998;
             
             .card .inf .bt:hover {
                 box-shadow:  0px 7px 10px #ffb400;
+                border: solid 2px black;
             }
 
             .services {
